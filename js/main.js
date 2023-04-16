@@ -52,6 +52,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
+
+
   /**
    * 首頁top_img底下的箭頭
    */
